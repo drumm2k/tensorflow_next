@@ -18,6 +18,8 @@
   },
   "homepage": "https://github.com/drumm2k/tensorflow_next#readme",
   "dependencies": {
+    "@tensorflow/tfjs": "^2.8.4",
+    "@tensorflow/tfjs-converter": "^2.8.4",
     "next": "^10.0.5",
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
